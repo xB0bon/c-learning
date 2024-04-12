@@ -1,0 +1,14 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\bin\Debug\net7.0\StringMethods.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\bin\Debug\net7.0\StringMethods.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\bin\Debug\net7.0\StringMethods.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\bin\Debug\net7.0\StringMethods.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\bin\Debug\net7.0\StringMethods.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\StringMethods.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\StringMethods.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\StringMethods.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\refint\StringMethods.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\StringMethods.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\StringMethods.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\StringMethods\obj\Debug\net7.0\ref\StringMethods.dll
