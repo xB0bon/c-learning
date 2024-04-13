@@ -1,0 +1,14 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\bin\Debug\net7.0\NestedLoops.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\bin\Debug\net7.0\NestedLoops.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\bin\Debug\net7.0\NestedLoops.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\bin\Debug\net7.0\NestedLoops.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\bin\Debug\net7.0\NestedLoops.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\NestedLoops.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\NestedLoops.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\NestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\NestedLoops.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\refint\NestedLoops.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\NestedLoops.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\NestedLoops.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\NestedLoops\obj\Debug\net7.0\ref\NestedLoops.dll

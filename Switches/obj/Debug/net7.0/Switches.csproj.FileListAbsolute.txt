@@ -1,0 +1,14 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\bin\Debug\net7.0\Switches.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\bin\Debug\net7.0\Switches.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\bin\Debug\net7.0\Switches.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\bin\Debug\net7.0\Switches.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\bin\Debug\net7.0\Switches.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\Switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\Switches.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\Switches.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\Switches.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\Switches.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\refint\Switches.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\Switches.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\Switches.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\Switches\obj\Debug\net7.0\ref\Switches.dll

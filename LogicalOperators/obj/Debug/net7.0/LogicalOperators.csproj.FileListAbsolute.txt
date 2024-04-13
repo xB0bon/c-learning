@@ -1,0 +1,14 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\bin\Debug\net7.0\LogicalOperators.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\bin\Debug\net7.0\LogicalOperators.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\bin\Debug\net7.0\LogicalOperators.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\bin\Debug\net7.0\LogicalOperators.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\bin\Debug\net7.0\LogicalOperators.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\LogicalOperators.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\LogicalOperators.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\refint\LogicalOperators.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\LogicalOperators.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\LogicalOperators.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\LogicalOperators\obj\Debug\net7.0\ref\LogicalOperators.dll
