@@ -1,0 +1,14 @@
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.exe
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.deps.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.runtimeconfig.json
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\bin\Debug\net7.0\ConditionalOperator.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.AssemblyInfoInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.AssemblyInfo.cs
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\refint\ConditionalOperator.dll
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.pdb
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\ConditionalOperator.genruntimeconfig.cache
+C:\Users\Piotrek\OneDrive - Zespół Szkół Technicznych im. Tadeusza Kościuszki w Radomiu\Komputer domowy\Desktop\nauka c#\Nauka C sharp\ConditionalOperator\obj\Debug\net7.0\ref\ConditionalOperator.dll

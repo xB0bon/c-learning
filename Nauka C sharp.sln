@@ -42,6 +42,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading", "Overloading\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "params", "params\params.csproj", "{2F08FA48-C024-4779-AF54-D58505A03982}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{62334F75-6520-4ACE-A7FC-8E42BD6FE3D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalOperator", "ConditionalOperator\ConditionalOperator.csproj", "{56B8CEA8-3ED2-4114-807D-8CFE0A594487}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +136,13 @@ Global
 		{2F08FA48-C024-4779-AF54-D58505A03982}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F08FA48-C024-4779-AF54-D58505A03982}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F08FA48-C024-4779-AF54-D58505A03982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62334F75-6520-4ACE-A7FC-8E42BD6FE3D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62334F75-6520-4ACE-A7FC-8E42BD6FE3D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62334F75-6520-4ACE-A7FC-8E42BD6FE3D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62334F75-6520-4ACE-A7FC-8E42BD6FE3D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B8CEA8-3ED2-4114-807D-8CFE0A594487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B8CEA8-3ED2-4114-807D-8CFE0A594487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B8CEA8-3ED2-4114-807D-8CFE0A594487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B8CEA8-3ED2-4114-807D-8CFE0A594487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
