@@ -58,6 +58,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadedConstructors", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{4CF26346-346F-4EB1-A955-3B95DBA3EFBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "objects as arguments", "objects as arguments\objects as arguments.csproj", "{A1B69D40-5D7D-4C75-859B-58B899077B5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{4CF26346-346F-4EB1-A955-3B95DBA3EFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CF26346-346F-4EB1-A955-3B95DBA3EFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CF26346-346F-4EB1-A955-3B95DBA3EFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B69D40-5D7D-4C75-859B-58B899077B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B69D40-5D7D-4C75-859B-58B899077B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B69D40-5D7D-4C75-859B-58B899077B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B69D40-5D7D-4C75-859B-58B899077B5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
