@@ -15,6 +15,7 @@
             }
             */
             //metoda 2
+            
             foreach (String car in cars)
             {
                 Console.WriteLine(car);
